@@ -28,7 +28,8 @@ s2 = Student('reza', 'rezayee', 18)
 
 print(s1.__add__(s2))
 print(s1 + s2)
-print(s1 * s2)
+print(s1 / s2)
+
 
 print(s1)
 
